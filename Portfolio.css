@@ -1,0 +1,411 @@
+.body{
+    background-color:rgb(59, 55, 55);
+    margin:0px;
+}
+a:hover{
+    color:rgb(136, 127, 127)
+}
+a:visited{
+    color:rgb(243, 241, 241)
+}
+a:active{
+    color:rgb(113, 55, 139)
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+    margin-top:4em;
+}
+
+#houss{
+    display: flex;
+    justify-content: center;
+    font-size:28px;
+    font-style:italic;
+    color:rgb(184, 89, 228)
+}
+article > p{
+    display: flex;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-style:oblique;
+    text-align: center;
+    font-size:19px
+}
+.leftart{
+    border:2px solid rgb(155, 160, 153);
+    width: 500px;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: -15px;
+}
+p{
+    color:aliceblue;
+}
+.Home{
+    display: flex;
+    justify-content: space-around;
+}
+#namel{
+    display: block;
+    color:rgb(184, 89, 228);
+    font-size:20px;
+    font-style:oblique;
+}
+#numberl{
+    font-style:oblique;
+    font-size:20px;
+    display: block;
+    color:rgb(184, 89, 228);
+}
+#birthl{
+    font-style:oblique;
+    font-size:20px;
+    display: block;
+    color:rgb(184, 89, 228);
+}
+.up-side{
+    background-color:rgb(37, 46, 46);
+    height: 4em;
+    border: 1px solid rgb(71, 82, 82);
+}
+#img01{
+    display: flex;
+    margin-left:31em;
+    margin-top: 3px;
+}
+#img02{
+    margin-right: 5.5em;
+    border: ridge rgb(155, 160, 153)5px;
+    margin-top: 4em;
+}
+.form{
+    text-align: center;
+}
+.continue{
+    display:block;
+    margin-left:16.2em;
+    margin-top:1.1em
+}
+.nav1{
+    margin-top: 1.8em;
+}
+.pos1{
+    display: flex;
+}
+.input1{
+    display: flex;
+    margin-left: 40em;
+    margin-top:1.5em;
+    width: 190px;
+    height: 20px;
+}
+.title-2{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    top: 12.2em;
+    font-size: 35px;
+    font-style: oblique;
+    color: rgba(255, 255, 255, 0.699);
+
+}
+.first-skill{
+    background-color:rgb(198, 140, 212);
+    display: block;
+    margin-left: 50px;
+    height: 25em;
+    width: 20em;
+    border-radius: 30px;
+}
+.def-p{
+    display:flex;
+    margin-left:25px;
+    margin-right:1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pr-img{
+    display: flex;
+    padding-top:1em;
+}
+.title-p{
+    color:rgb(84, 0, 95);
+    display: flex;
+    margin-left: 6em;
+}
+.second-skill{
+    background-color: rgb(198, 140, 212);
+    display: block;
+    margin-right:50px;
+    height:25em;
+    width:20em;
+    border-radius: 30px;
+}
+.title-ve{
+    color:rgb(84, 0, 95);
+    display: flex;
+    margin-left: 4em;
+    margin-top: 20px;
+}
+.def-ve{
+    display:flex;
+    margin-left:25px;
+    margin-right:1em;
+    margin-top: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mn-img{
+    display: flex;
+    padding-top:3em; 
+}
+.f-s-section{
+    display: flex;
+    justify-content: space-around;
+}
+.third-skill{
+    background-color: rgb(198, 140, 212);
+    display: block;
+    height:25em;
+    width:20em;
+    border-radius: 30px;
+}
+.title-d{
+    color:rgb(84, 0, 95);
+    display: flex;
+    margin-left: 8em;
+    margin-top: 3px;
+}
+.def-d{
+    display: flex;
+    margin-left:25px;
+    margin-right: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.d-img{
+    display:flex;
+    padding-top:1.5em;
+}
+.fourth-skill{
+    background-color: rgb(198, 140, 212);
+    display: block;
+    margin-bottom: 1.4em;
+    margin-left:-100px;
+    height:25em;
+    width:20em;
+    border-radius: 30px;
+}
+.title-dr{
+    color:rgb(84, 0, 95);
+    display: flex;
+    margin-left:8em;
+    margin-top: 1px;
+}
+.def-dr{
+    display: flex;
+    margin-left: 25px;
+    margin-right: 1em;
+    position:relative;
+    bottom:0.7em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dr-img{
+    display:block;
+    padding-bottom:9em;
+}
+.s-s-section{
+    display:flex;
+    justify-content: space-around;
+    margin-top:5em
+}
+#Skills{
+    display: block;
+    background-color: rgb(68, 63, 63);
+    border:2px solid rgb(59, 55, 55);
+    margin-top:5em;
+}
+.skills-section{
+    display: block;
+    margin-top: -4em;
+}
+.td-pr{
+    display: block;
+    margin-top:12em;
+    margin-right:25em;
+    background-color: rgb(198, 140, 212);
+    height: 25em;
+    width: 20em;                                        
+    border-radius: 30px;
+}
+.about-section{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(59, 55, 55);
+    border: solid rgb(59, 55, 55);
+    margin-bottom: 5em;
+}
+.def-pr{
+    display: flex;
+    color:black;
+    margin-left: 25px;
+    margin-right: 1em;
+    position: relative;
+    bottom: 2em;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.title-about{
+    color:rgb(84, 0, 95) ;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1em;
+}
+.video-about{
+    display:flex;
+    padding-top: 15em;
+    padding-right:6em;
+}
+.ab-img{
+    position: relative;
+    left:39em;
+    top: 2em;
+}
+.contact-section{
+    background-color: rgb(68, 63, 63);
+    border:rgb(68, 63, 63);
+    height: 20em;
+    padding-top: 4em;
+}
+.contact-section{
+    display: flex;
+    justify-content: space-around;
+}
+.contact-info{
+    display:block;
+    position: relative;
+    bottom:4.5em;
+    left:7rem;
+}
+.contact-data{
+    display: inline-block;
+    position: relative;
+    bottom:4em;
+    left:3em;
+}
+.contact-input{
+    display:block;
+    padding-top: 5px;
+    position: relative;
+    bottom:2em;
+    left:13rem;
+}
+.name-label{
+    height:2em;
+    width: 15rem;
+}
+.lname-label{
+    height:2em;
+    width: 15rem;
+}
+.number-label{
+    height:2em;
+    width: 15rem;
+}
+.subject-label{
+    height:2em;
+    width: 15rem;
+}
+.message-label{
+    height:5em;
+    width: 15rem;
+}
+.label-f-n{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(224, 223, 220);
+}
+.label-l-n{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(224, 223, 220);
+}
+.label-p-n{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(224, 223, 220);
+}
+.label-S{
+    display: block;
+    color: rgb(224, 223, 220);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.label-M{
+    display: block;
+    color: rgb(224, 223, 220);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact-button{
+    display: flex;
+    margin-top: 1em;
+    position: relative;
+    left:5rem;
+}
+.media-icons{
+    display: flex;
+    align-items: end;
+    flex-direction: row-reverse;
+    position: relative;
+    left:7rem;
+}
+.git-icon{
+    position: relative;
+    left:6px;
+}
+.youtube-icon{
+    position: relative;
+    right:2px;
+}
+.title-contact{
+    color:rgb(191, 146, 197);
+    font-size:50px;
+    display: flex;
+    position: relative;
+    bottom: 15px;
+}
+.phone_number{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Email{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Space{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.label-H{
+    position: relative;
+    left:13rem;
+    font-size: 40px;
+    color: rgb(184, 89, 228);
+}
+.help-label{
+    display: block;
+    height:3.5em;
+    width:50em;
+    margin-top: 1em;
+}
+.help-input{
+    margin-left: 26rem;
+}
+.help-p1{
+    display: flex;
+    justify-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.help-p2{
+    display: flex;
+    justify-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#foolter{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing:0.2px;
+}
